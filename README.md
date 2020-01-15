@@ -22,7 +22,7 @@ cd storage *(use this to access your storage device)<br>
 cd download *(this dir on your storage device)<br>
 git clone https://github.com/logicjoker/clickbot2020.git<br>
 cd clickbot2020<br>
-python [.py file] [your name in telegram]<br>
+python [.py file] [your tel number in telegram]<br>
 
 **first time only this bot send a code telegram you put a code in script 
 
