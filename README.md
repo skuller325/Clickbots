@@ -17,4 +17,8 @@ pip install pyaes<br>
 pip install async_generator<br>
 cd storage *(use this to access your storage device)<br>
 cd download *(this dir on your storage device)<br>
-git clone 
+git clone https://github.com/logicjoker/clickbot2020.git
+cd clickbot2020
+python [.py file] [your name in telegram]
+
+**first time only this bot send a code telegram you put a code in script 
