@@ -6,6 +6,9 @@ BTC : 3AX4kojcL2TkTk6rbx81YWtWiT7grqkdeZ<br>
 DOGE : LQB6Ma8obfzSipBMkUvQAj27kiJ3pziNs4<br>
 LTC : D9SPrjGzL6CZi7uxPCe68V12YRDgyYyrWU<br>
 *****
+LTCBot : https://t.me/Litecoin_click_bot?start=xpxi 
+ZECBot : https://t.me/Zcash_click_bot?start=06MC 
+*****
 Installion (Termux) [Important!!!]<br>
 pkg update && pkg upgrade<br>
 pkg install python<br>
