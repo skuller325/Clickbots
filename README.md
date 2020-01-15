@@ -22,4 +22,5 @@ cd clickbot2020<br>
 python [.py file] [your name in telegram]<br>
 
 **first time only this bot send a code telegram you put a code in script 
-<img src="https://1.bp.blogspot.com/-61crNTzV2lc/XPAATpk3CzI/AAAAAAAABB4/u6GUfbRKaKsAwcPP2tIoSFojhqqu4pTrgCLcBGAs/s1600/Screenshot_2019-05-30-23-07-01-44.png"
+
+<a href="https://1.bp.blogspot.com/-61crNTzV2lc/XPAATpk3CzI/AAAAAAAABB4/u6GUfbRKaKsAwcPP2tIoSFojhqqu4pTrgCLcBGAs/s1600/Screenshot_2019-05-30-23-07-01-44.png"></a>
