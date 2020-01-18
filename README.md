@@ -19,7 +19,7 @@ pip install rsa<br>
 pip install pyaes<br>
 pip install async_generator<br>
 cd storage *(use this to access your storage device)<br>
-cd download *(this dir on your storage device)<br>
+cd downloads *(this dir on your storage device)<br>
 ls<br>
 git clone https://github.com/logicjoker/clickbot2020.git<br>
 ls<br>
