@@ -2,9 +2,7 @@
 Telegram Bot Click 2020
 *****
 Donation<br>
-BTC : 3AX4kojcL2TkTk6rbx81YWtWiT7grqkdeZ<br>
-DOGE : LQB6Ma8obfzSipBMkUvQAj27kiJ3pziNs4<br>
-LTC : D9SPrjGzL6CZi7uxPCe68V12YRDgyYyrWU<br>
+BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
 *****
 LTCBot : https://t.me/Litecoin_click_bot?start=xpxi<br> 
 ZECBot : https://t.me/Zcash_click_bot?start=06MC<br> 
