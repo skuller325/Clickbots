@@ -1,5 +1,5 @@
-# clickbot2020
-Telegram Bot Click 2020
+# ltcclickbot2020
+LTC Click Bot 2020
 *****
 Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
