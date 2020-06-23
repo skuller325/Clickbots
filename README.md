@@ -21,7 +21,7 @@ ls<br>
 git clone https://github.com/logicjoker/ltcclickbot2020.git<br>
 ls<br>
 cd ltcclickbot2020<br>
-python [.py file] [your tel number in telegram]<br>
+python litecoin.py [your tel number in telegram]<br>
 
 **first time only this bot send a code telegram you put a code in script 
 
