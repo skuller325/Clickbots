@@ -5,7 +5,6 @@ Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
 *****
 LTCBot : https://t.me/Litecoin_click_bot?start=xpxi<br> 
-ZECBot : https://t.me/Zcash_click_bot?start=06MC<br> 
 *****
 Installation (Termux) [Important!!!]<br>
 pkg update && pkg upgrade<br>
