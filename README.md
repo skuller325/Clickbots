@@ -25,7 +25,4 @@ python litecoin.py [your tel number in telegram]<br>
 
 **first time only this bot send a code telegram you put a code in script 
 
-<a href="https://ibb.co/DWfgwVv"><img src="https://i.ibb.co/DWfgwVv/Screenshot-2019-05-30-23-07-01-44.png" alt="Screenshot-2019-05-30-23-07-01-44" border="0"></a>
-<a href="https://ibb.co/5nBCLDb"><img src="https://i.ibb.co/5nBCLDb/Screenshot-2019-05-30-23-08-00-25.png" alt="Screenshot-2019-05-30-23-08-00-25" border="0"></a>
-<a href="https://ibb.co/JCgGdtN"><img src="https://i.ibb.co/JCgGdtN/Screenshot-2019-05-30-23-08-10-59.png" alt="Screenshot-2019-05-30-23-08-10-59" border="0"></a>
 
