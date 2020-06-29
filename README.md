@@ -18,7 +18,7 @@ pip install async_generator<br>
 cd storage *(use this to access your storage device)<br>
 cd downloads *(this dir on your storage device)<br>
 ls<br>
-git clone https://github.com/logicjoker/ltcclickbot2020.git<br>
+git clone<br>
 ls<br>
 cd ltcclickbot2020<br>
 python litecoin.py [your tel number in telegram]<br>
