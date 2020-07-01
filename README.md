@@ -8,7 +8,7 @@ LTCBot : https://t.me/Litecoin_click_bot?start=xpxi<br>
 BTCBot : https://t.me/BitcoinClick_bot?start=XH4S<br>
 BCHBot : https://t.me/BCH_clickbot?start=q0gG<br>
 How to use a script : https://www.youtube.com/watch?v=1xdeElh8Og8&t=284s<br>
-Caution : Before use a script you should change every coin address in wallet folder [every folder]<br>
+Caution : Before use a script you should change coin address in wallet folder [every folder]<br>
 *****
 Installation (Termux) [Important!!!]<br>
 pkg update && pkg upgrade<br>
