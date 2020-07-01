@@ -23,6 +23,6 @@ ls<br>
 cd ltcclickbot2020<br>
 python litecoin.py [your tel number in telegram]<br>
 
-**first time only this bot send a code telegram you put a code in script 
+**first time only this bot send a code in telegram then you put a code in script 
 
 
