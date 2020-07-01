@@ -21,9 +21,9 @@ pip install async_generator<br>
 cd storage *(use this to access your storage device)<br>
 cd downloads *(this dir on your storage device)<br>
 ls<br>
-git clone<br>
+git clone https://github.com/logicjoker/Clickbots.git<br>
 ls<br>
-cd ltcclickbot2020<br>
+cd Clickbots<br>
 python litecoin.py [your tel number in telegram]<br>
 
 **first time only this bot send a code in telegram then you put a code in script 
