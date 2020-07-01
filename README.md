@@ -5,6 +5,7 @@ Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
 *****
 LTCBot : https://t.me/Litecoin_click_bot?start=xpxi<br> 
+How to use a script : https://www.youtube.com/watch?v=1xdeElh8Og8&t=284s
 *****
 Installation (Termux) [Important!!!]<br>
 pkg update && pkg upgrade<br>
