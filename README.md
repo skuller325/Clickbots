@@ -9,6 +9,8 @@ How to use a script : https://www.youtube.com/watch?v=1xdeElh8Og8&t=284s
 *****
 Installation (Termux) [Important!!!]<br>
 pkg update && pkg upgrade<br>
+pkg install touch<br>
+pkg install nano<br>
 pkg install python<br>
 pip install --upgrade pip<br>
 pip install requests<br> 
