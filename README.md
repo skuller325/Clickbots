@@ -1,5 +1,5 @@
-# ltcclickbot2020
-LTC Click Bot 2020
+# Clickbots
+Clickbots
 *****
 Donation<br>
 BTC : 3PjQH35Y51X4XcPh5JHwrqJ4DDWQjwMWca <br>
