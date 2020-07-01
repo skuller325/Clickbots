@@ -23,8 +23,8 @@ cd downloads *(this dir on your storage device)<br>
 ls<br>
 git clone https://github.com/logicjoker/Clickbots.git<br>
 ls<br>
-cd Clickbots<br>
-python litecoin.py [your tel number in telegram]<br>
+cd Clickbots [select coin folder you want to claim]<br>
+bash start.sh<br>
 
 **first time only this bot send a code in telegram then you put a code in script 
 
