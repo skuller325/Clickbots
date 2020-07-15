@@ -20,7 +20,7 @@ downloads *(this dir on your storage device)<br>
 ls<br>
 git clone https://github.com/logicjoker/Clickbots.git<br>
 ls<br>
-cd Clickbots [select file.py to claim]<br>
+Clickbots [select file.py to claim]<br>
 python [.py file] [your telegram phone number]<br>
 
 **first time only this bot send a code in telegram then you put a code in script 
