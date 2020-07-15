@@ -23,7 +23,7 @@ ls<br>
 Clickbots [select file.py to claim]<br>
 python [.py file] [your telegram phone number]<br>
 
-**first time only this bot send a code in telegram then you put a code in script 
+**first time only this bot send a code in telegram then you put a code in script<br> 
 *** Screenshot in this link : https://www.youtube.com/watch?v=Ip2AonisWa8<br>
 
 
