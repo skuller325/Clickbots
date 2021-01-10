@@ -23,6 +23,6 @@ nano cfg.txt (add your all wallet here)<br>
 python main.py<br>
 
 **first time only this bot send a code in telegram then you put a code in script<br> 
-*** Screenshot in this link : https://www.youtube.com/watch?v=Ip2AonisWa8<br>
+*** Screenshot in this link : https://www.youtube.com/watch?v=0HoJdWfP60s&t=317s<br>
 
 
